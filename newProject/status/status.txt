@@ -1,0 +1,46 @@
+git log
+
+commit 1d95bab5ec9da55f3db4cf4a917b40b62d6775e3
+Author: alexmathew2 <alexmathew2@hifx.co.in>
+Date:   Tue Oct 28 10:58:13 2014 +0530
+
+    newJar modified
+
+commit cf8d3a1caba0fe6eda32328ff544265bd180c07f
+Author: alexmathew2 <alexmathew2@hifx.co.in>
+Date:   Tue Oct 28 10:51:40 2014 +0530
+
+    add new jar
+
+commit 83c4d00209af32c88b033647b0d6e4cf6e827994
+Author: alexmathew2 <alexmathew2@hifx.co.in>
+Date:   Tue Oct 28 10:44:05 2014 +0530
+
+    mysql jar added
+
+commit cce60a85073347e2ba1a73b3682c8c65568faabf
+Merge: 9c9e65c ae9672d
+Author: alexmathew2 <alexmathew2@hifx.co.in>
+
+Date:   Fri Jan 10 15:53:57 2014 +0530
+
+    Merge branch 'master' of https://github.com/alexmathewhifx/hellow-world
+    
+    Conflicts:
+        abc.txt
+
+commit ae9672dcb842ed43f6ad26505da8225cb2aecc9a
+Author: alexmathew2 <alexmathew2@hifx.co.in>
+Date:   Fri Jan 10 15:42:47 2014 +0530
+
+    edited by alex1
+
+commit 9c9e65c60420a079a0e7721d52beeffe64420946
+Author: alexmathew2 <alexmathew2@hifx.co.in>
+Date:   Fri Jan 10 15:41:16 2014 +0530
+
+    edited abc.txt by alex2
+
+commit e0784b6fa3cd17e25e3d89c90d2be00014fedb28
+Author: alexmathew2 <alexmathew2@hifx.co.in>
+
